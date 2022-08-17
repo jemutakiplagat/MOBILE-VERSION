@@ -42,6 +42,7 @@ a {
   height: 726px;
   left: 0;
   top: 92px;
+  background-image: url(images/header-illsutration-mobile@2x.png);
 }
 
 h1 {
@@ -75,3 +76,19 @@ h1 {
     order: 1;
     flex-grow: 0;
 }
+.social-icons{
+    width: 170.17px;
+    height: 20px;
+    flex: none;
+    order: 2;
+    flex-grow: 0; 
+ list-style-type: none;
+ justify-content: space-between;
+ display: inline;
+
+}
+.social-icons li{
+    flex-direction: column;
+    justify-content: space-between;
+    display: inline-flex;
+    }
