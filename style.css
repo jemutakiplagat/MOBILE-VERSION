@@ -43,6 +43,7 @@ a {
   left: 0;
   top: 92px;
   background-image: url(images/header-illsutration-mobile@2x.png);
+  background-color: #ffff;
 }
 
 h1 {
@@ -92,4 +93,5 @@ h1 {
   flex-direction: column;
   justify-content: space-between;
   display: inline-flex;
+
 }
