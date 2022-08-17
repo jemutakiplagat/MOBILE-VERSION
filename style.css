@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;1,200&family=Roboto:wght@300;400;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+nav{
+  position: absolute;
+  width: 375px;
+  height: 92px;
+  left: 0px;
+  right: 0px;
+  top: 44px;
+  bottom: 0px;
+  display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    list-style: none;
+    min-width: 375px;
+    padding: 10px 12px;
+}
+
+a {
+    text-decoration: none;
+    list-style: none;
+    color: #28352F;;
+}
+
+#menu{
+    cursor: pointer;
+    
+}
+
+.headline{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 64px 24px;
+    gap: 58px;
+    
+    position: absolute;
+    width: 375px;
+    height: 726px;
+    left: 0px;
+    top: 92px;
+}
+h1{
+    width: 327px;
+height: 192px;
+
+/* Theme 2 / H2 */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+/* or 130% */
+
+text-align: center;
+
+/* Neutrals/N800 */
+
+color: #172B4D;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+#green{
+    color: green;
+}
