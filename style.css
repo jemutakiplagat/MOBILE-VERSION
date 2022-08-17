@@ -47,26 +47,12 @@ a {
 h1 {
   width: 327px;
   height: 192px;
-
-  /* Theme 2 / H2 */
-
-  font-family: 'Inter, poppins';
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
   line-height: 52px;
-
-  /* or 130% */
-
   text-align: center;
-
-  /* Neutrals/N800 */
-
   color: #172b4d;
-
-
-  /* Inside auto layout */
-
   flex: none;
   order: 0;
   flex-grow: 0;
