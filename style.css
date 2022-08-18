@@ -1,0 +1,136 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;600;800&family=Poppins:wght@100;200;300;600;700&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.main-mobile {
+  position: relative;
+  width: 375px;
+  height: 6715px;
+  background: #fff;
+}
+
+nav {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 44px;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  width: 375px;
+}
+
+a {
+  text-decoration: none;
+  list-style: none;
+  color: #28352f;
+}
+
+#menu {
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 8px;
+  width: 40px;
+  height: 40px;
+  right: 24px;
+  top: calc(50% - 40px / 2);
+  border-radius: 8px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+#welcome {
+  flex-direction: row;
+  padding: 10px 12px;
+  left: 12px;
+  top: calc(50% - 48px / 2);
+  width: 90px;
+  height: 28px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #28352f;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.headline {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 64px 24px;
+  gap: 58px;
+  position: absolute;
+  width: 375px;
+  height: 726px;
+  left: 0;
+  top: 92px;
+  background-image: url(/images/header-illsutration-mobile.png);
+  background-repeat: no-repeat;
+  background-color: #ffff;
+}
+
+h1 {
+  width: 327px;
+  height: 192px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  text-align: center;
+  color: #172b4d;
+  align-items: center;
+  margin-left: -24px;
+}
+
+#green {
+  color: #36b37e;
+}
+
+.text {
+  width: 327px;
+  height: 164px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  color: #172b4d;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin-left: -24px;
+}
+
+.social-icons {
+  width: 170.17px;
+  height: 20px;
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+  list-style-type: none;
+  justify-content: space-between;
+  display: inline;
+}
+
+.social-icons li {
+  flex-direction: column;
+  justify-content: space-between;
+  display: inline-flex;
+  padding: 6px;
+}

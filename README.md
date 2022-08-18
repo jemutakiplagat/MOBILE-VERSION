@@ -1,6 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Project Name
+# mobile skeleton setup
 
 > Description the project.
 
@@ -8,12 +7,14 @@
 ## Built With
 
 - Major languages
+1.css
+2.html
+
 - Frameworks
+linters check
 - Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+github
+githubflow
 
 
 ## Getting Started
@@ -38,19 +39,14 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **jemutai kiplagat**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/jemutakiplagat)
+- Twitter: [@twitterhandle](https://twitter.com/jemutaikiplaga1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jemutai-kiplagat-84782b235/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -63,10 +59,7 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+thanks to my family and friend Desmond forthe surport
 
 ## 📝 License
 
