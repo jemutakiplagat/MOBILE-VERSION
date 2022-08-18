@@ -1,13 +1,27 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# mobile skeleton
+# mobile skeleton setup
 
 > Description the project.
 
 
 ## Built With
 
-- Major languages -css and html
+- Major languages
+1.css
+2.html
+
+- Frameworks
+linters check
+- Technologies used
+github
+githubflow
+
+
+## Getting Started
+
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
 
 To get a local copy up and running follow these simple example steps.
 
@@ -30,7 +44,22 @@ To get a local copy up and running follow these simple example steps.
 👤 **jemutai kiplagat**
 
 - GitHub: [@githubhandle](https://github.com/jemutakiplagat)
+- Twitter: [@twitterhandle](https://twitter.com/jemutaikiplaga1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jemutai-kiplagat-84782b235/)
 
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+thanks to my family and friend Desmond forthe surport
 
 ## 📝 License
 
