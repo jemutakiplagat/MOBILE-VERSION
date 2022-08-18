@@ -81,7 +81,6 @@ a {
   background-image: url(/images/header-illsutration-mobile.png);
   background-repeat: no-repeat;
   background-color: #ffff;
- 
 }
 
 h1 {
@@ -99,7 +98,7 @@ h1 {
 }
 
 #green {
-  color:#36B37E;
+  color: #36b37e;
 }
 
 .text {
