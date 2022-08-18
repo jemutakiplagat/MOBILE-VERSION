@@ -6,20 +6,22 @@
   margin: 0;
 }
 
+.main-mobile{
+    position: relative;
+width: 375px;
+height: 6715px;
+background: #FFFFFF;
+}
+
 nav {
-  position: absolute;
-  width: 375px;
-  height: 92px;
-  left: 0;
-  right: 0;
-  top: 44px;
-  bottom: 0;
-  display: flex;
-  justify-content: space-between;
-  flex-direction: row;
-  list-style: none;
-  min-width: 375px;
-  padding: 10px 12px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 44px;
+    bottom: 0px;
+    display: flex;
+    justify-content: space-between;
+ width: 375px;
 }
 
 a {
@@ -30,39 +32,56 @@ a {
 
 #menu {
   cursor: pointer;
+  display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px;
+width: 40px;
+height: 40px;
+right: 24px;
+top: calc(50% - 40px/2);
+border-radius: 8px;
+flex: none;
+order: 0;
+flex-grow: 0;
 }
 
 #welcome {
-  width: 90px;
-  height: 28px;
-  font-family: 'Inter', sans-serif;
-  font-style: normal;
-  font-weight: 600;
-  font-size: 20px;
-  line-height: 28px;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  color: #28352f;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
+    flex-direction: row;
+    padding: 10px 12px;
+    left: 12px;
+    top: calc(50% - 48px/2);
+width: 90px;
+height: 28px;
+font-family: 'Inter',sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #28352F;
+flex: none;
+order: 0;
+flex-grow: 0;
 }
 
 .headline {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 64px 24px;
+  padding: 54px 24px;
   gap: 58px;
   position: absolute;
   width: 375px;
   height: 726px;
-  left: 0;
+  left:0px;
   top: 92px;
   background-image: url(/images/header-illsutration-mobile@2x.png);
   background-repeat: no-repeat;
   background-color: #ffff;
+ 
 }
 
 h1 {
@@ -75,6 +94,8 @@ h1 {
   line-height: 52px;
   text-align: center;
   color: #172b4d;
+  align-items: center;
+  margin-left: -34px;
 }
 
 #green {
@@ -94,6 +115,7 @@ h1 {
   flex: none;
   order: 1;
   flex-grow: 0;
+  margin-left: -34px;
 }
 
 .social-icons {
