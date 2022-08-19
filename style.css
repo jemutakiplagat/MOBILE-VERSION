@@ -250,6 +250,7 @@ h3 {
   order: 1;
   flex-grow: 0;
 }
+
 .tags2 {
   padding-left: 30%;
 }
@@ -580,7 +581,7 @@ button:hover {
   padding: 12px;
   width: 69px;
   margin-left: 15px;
-  margin-top: 0px;
+  margin-top: 0;
   background: #fff;
   border-radius: 8px;
   color: #36b37e;
@@ -788,25 +789,16 @@ button:hover {
   color: #36b37e;
 }
 
-.terminal {
-  height: 20px;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  padding: 12px;
-  width: 77px;
-  background: #fff;
-  border-radius: 8px;
-}
-
 .card-framework li {
   flex-direction: column;
   justify-content: space-between;
   display: inline-flex;
   padding: 6px;
+}
+
+.terminal a {
+  color: #36b37e;
+  padding-left: 12px;
 }
 
 .card-framework li a {
@@ -822,11 +814,6 @@ button:hover {
 
 .skills-tag li a {
   color: #36b37e;
-}
-
-.terminal a {
-  color: #36b37e;
-  padding-left: 12px;
 }
 
 #icon-1 {
