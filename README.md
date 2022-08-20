@@ -1,14 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # mobile skeleton setup
 
-> Description the project.
+> This is a project to create a mobile version portfolio using CSS and HTML languages
 
 
 ## Built With
 
 - Major languages
-1.css
-2.html
+1.Css
+2.Html
 
 - Frameworks
 linters check
