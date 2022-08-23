@@ -982,3 +982,16 @@ button:active {
   flex-grow: 0;
   margin-left: 70px;
 }
+
+.footer-social-icons {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  width: 160px;
+  align-content: center;
+  height: 40px;
+  margin: 0 auto;
+  padding: 0.75rem;
+  margin-top: 2rem;;
+ }
+ 
