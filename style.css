@@ -369,6 +369,10 @@ button:hover {
   background-color: #3a4a42;
   color: #36b37e;
 }
+button:active {
+  background-color: yellow;
+  color: blue;
+}
 
 .about-me {
   display: flex;
