@@ -4,6 +4,7 @@
   padding: 0;
   margin: 0;
 }
+
 body {
   align-items: center;
 }
@@ -78,6 +79,7 @@ a {
   padding: 64px 24px;
   gap: 58px;
   position: absolute;
+
   /* width: 375px; */
   height: 726px;
   left: 0;
@@ -373,6 +375,7 @@ button:hover {
   background-color: #3a4a42;
   color: #36b37e;
 }
+
 button:active {
   background-color: yellow;
   color: blue;
@@ -1010,5 +1013,4 @@ button:active {
   color: #42526e;
   text-decoration: none;
   padding-top: 20px;
-  
 }
