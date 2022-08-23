@@ -999,8 +999,8 @@ button:active {
 }
 
 .my {
-  width: 375px;
-  height: 189px;
+  /* width: 375px;
+  height: 189px; */
   font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -1009,5 +1009,6 @@ button:active {
   text-align: center;
   color: #42526e;
   text-decoration: none;
-  margin-bottom: 3rem;
+  padding-top: 20px;
+  
 }
