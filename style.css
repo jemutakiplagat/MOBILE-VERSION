@@ -1033,7 +1033,7 @@ button:active {
     flex-direction: row;
     justify-content: space-between;
     justify-items: center;
-    left: 100%;
+    left:90%;
   }
 
   #menu {
@@ -1104,7 +1104,7 @@ button:active {
     flex-wrap: wrap;
     align-items: center;
     padding: 0;
-    left: -10px;
+    margin-left: 5px;
     width: 1171px;
     height: 988px;
   }
@@ -1118,7 +1118,7 @@ button:active {
     position: absolute;
     width: 1171px;
     height: 808px;
-    left: 135px;
+    left: 235px;
     top: 2331px;
   }
 
